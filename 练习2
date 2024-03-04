@@ -1,0 +1,5 @@
+name = ' b小名'
+name2 = ' c小红'
+name3 = 'alex'
+message = f'{name} {name2} {name3}'
+print(message.lstrip().title())
